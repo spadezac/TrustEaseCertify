@@ -21,6 +21,8 @@ TrustEaseCertify is an innovative online certificate generator and validator lev
   - Drag and drop boxes for precise placement on the template.
   - Include a QR code box for blockchain hash storage.
   - Test certificate layouts before finalizing.
+ ![image](https://github.com/user-attachments/assets/f003d5f7-d8e0-49a2-bb51-534bc4481e51)
+
 - **Bulk Certificate Generation**:
   - Automatically generate certificates with candidate data and QR codes.
   - Store candidate information securely on the blockchain.
@@ -30,6 +32,8 @@ TrustEaseCertify is an innovative online certificate generator and validator lev
   - Scan the QR code to retrieve the blockchain hash.
   - Verify the certificate authenticity through the blockchain.
   - Display candidate details if valid or indicate invalid certificates.
+  ![image](https://github.com/user-attachments/assets/ac9f17e6-6963-400e-99ae-8f386ad5f9ef)
+
 
 ### 3. **Security**
 - Employs blockchain technology for tamper-proof certificate validation.
@@ -92,11 +96,21 @@ TrustEaseCertify is an innovative online certificate generator and validator lev
 ## Usage
 
 1. Access the platform via the frontend application.
+
 2. Use the **Template Uploader** to upload a custom certificate template.
+![image](https://github.com/user-attachments/assets/fee143d1-d889-4dd6-861a-049d59c5211d)
+
 3. Upload candidate data using the **CSV Uploader**.
+![image](https://github.com/user-attachments/assets/9d960671-4ad0-4783-a27c-0ffa18059eb3)
+
 4. Customize the template in the **Certificate Editor**, add information boxes, and test the layout.
+![image](https://github.com/user-attachments/assets/1a702d39-67ed-441d-9d5b-373de64cac7b)
+
 5. Click **Generate** to create certificates and store candidate data on the blockchain.
+
 6. Verify certificate authenticity in the **Verify Certificate** section by scanning the QR code or entering the blockchain hash.
+![image](https://github.com/user-attachments/assets/ed5adea0-946a-46aa-82f1-a36c2d2d357d)
+
 
 ## Contributing
 
